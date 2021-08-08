@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Sairam.Portal/.vs/Sairam.Portal/v16
+/Sairam.Portal/Sairam.Portal/obj
